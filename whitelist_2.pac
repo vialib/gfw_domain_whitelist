@@ -1,6 +1,6 @@
 var okToLoadBalance = false;
 
-var proxy = new Array( "SOCKS5 127.0.0.1:1088; SOCKS 127.0.0.1:1088;",
+var proxy = new Array( "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080;",
 "SOCKS5 127.0.0.1:1081; SOCKS 127.0.0.1:1081;",
 "SOCKS5 127.0.0.1:1081; SOCKS 127.0.0.1:1082;",
 //add more proxy to loadbalance!
