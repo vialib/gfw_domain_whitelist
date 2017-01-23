@@ -12245,7 +12245,6 @@ var white_domains = {
 "dmgeek.com":1,
 "dmguo.com":1,
 "dmhlj.com":1,
-"dmhy.org":1,
 "dmiug.com":1,
 "dmm.hk":1,
 "dmozdir.org":1,
