@@ -12357,7 +12357,6 @@ var white_domains = {
 "dl-mec.com":1,
 "dl-origin.ubnt.com":1,
 "dl.delivery.mp.microsoft.com":1,
-"dl.google.com":1,
 "dl.ubnt.com":1,
 "dl1234.com":1,
 "dl321.net":1,
