@@ -12650,7 +12650,6 @@ var white_domains = {
 "doubanz.com":1,
 "doubaojf.com":1,
 "doubean.com":1,
-"doubleclick.net":1,
 "doubleliu.com":1,
 "doudang.com":1,
 "doudier.com":1,
