@@ -32,7 +32,7 @@ def writefile(input_file, proxy, output_file):
 
 def get_list():
     print('Getting domain whitelist...')
-    dnsmasq_china_list = 'https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf'
+    dnsmasq_china_list = 'https://raw.githubusercontent.com/eastmalon/dnsmasq-china-list/master/accelerated-domains.china.conf'
     whitelist = []
     try:
         content = getList(dnsmasq_china_list)
